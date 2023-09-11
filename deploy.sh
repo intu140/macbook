@@ -1,3 +1,4 @@
+ testing stash line
  HEAD
 updating in master branch
 =======
